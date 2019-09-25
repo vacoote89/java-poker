@@ -8,4 +8,4 @@ Ranks should be collected as Ace =1, Jack = 11, Queen = 12, King = 13
 Suits should be collected as Diamonds = D, Hearts = H, Clubs = C, Spades = S
 
 
-!(https://github.com/vacoote89/java-poker/blob/master/poker.PNG)[https://github.com/vacoote89/java-poker/blob/master/poker.PNG]
+![https://github.com/vacoote89/java-poker/blob/master/poker.PNG](https://github.com/vacoote89/java-poker/blob/master/poker.PNG)
